@@ -1,1 +1,2 @@
-Movies list sample app using React Native.
+- Movies list sample app using React Native.
+- Using FlatList, axios, Icon and so on.
